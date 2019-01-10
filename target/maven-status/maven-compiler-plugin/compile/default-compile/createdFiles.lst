@@ -1,0 +1,5 @@
+br\com\listavip\model\Guest.class
+br\com\listavip\service\GuestService.class
+br\com\listavip\Configuration.class
+br\com\listavip\GuestController.class
+br\com\listavip\repository\GuestRepository.class
